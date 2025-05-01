@@ -3,7 +3,8 @@ super_admin_password = "super_pass"
 
 
 def login():
-    pass
+    username = input("Enter username: ")
+    password = input("Enter password: ")
 
 
 def logout():
