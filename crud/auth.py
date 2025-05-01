@@ -8,4 +8,4 @@ def login():
 
 
 def logout():
-    pass
+    print("hello")
