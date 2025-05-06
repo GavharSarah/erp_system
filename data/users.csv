@@ -1,3 +1,6 @@
-id,full_name,username,password,role,created_at
-1,Admin,admin,admin,admin
-2,Student,student,student,student
+superadmin,admin123,superadmin,,
+admin1,adminpass,admin,,
+teacher1,teachpass,teacher,group1,
+student1,studpass,student,group1,150
+Guljamol,guljamolpass,student,,0
+Teacher2,teachpass,teacher,,
